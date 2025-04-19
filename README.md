@@ -34,7 +34,7 @@ Navigate to the project directory:
 ```markdown
 
 
-cd crypto-trading-master
+cd Cryptofolio
 ```
 Install node-v16.20.2-x64:
 ```markdown
